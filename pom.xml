@@ -11,6 +11,7 @@
     <modules>
         <module>Spring_Ioc</module>
         <module>Spring_Aop</module>
+        <module>Spring_SpringBoot</module>
     </modules>
 
 
