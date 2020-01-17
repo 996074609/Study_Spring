@@ -10,7 +10,7 @@
 >
 
     <!--目标对象-->
-    <bean id="tar   get" class="com.yuejinfu.aop.Target"></bean>
+    <bean id="target" class="com.yuejinfu.aop.Target"></bean>
 
     <!--切面对象-->
     <bean id="myAspect" class="com.yuejinfu.aop.MyAspect"></bean>

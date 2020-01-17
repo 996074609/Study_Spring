@@ -18,6 +18,7 @@ public class AopTest {
 
     @Test
     public void test01(){
+
         target.save();
     }
 
